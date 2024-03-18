@@ -1,8 +1,8 @@
-# Automação Web Agibank
+# Automação Web
 
 # Introdução
 
-    - Projeto de automação de testes web criado para o teste técnico do Agibank
+    - Projeto de automação de testes web criado para teste técnico
 
 ### Tecnologias utilizadas
 
